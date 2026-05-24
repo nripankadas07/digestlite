@@ -18,7 +18,7 @@ hierarchy.
 ## Install
 
 ```bash
-pip install digestlite
+python -m pip install -e .
 ```
 
 `digestlite` has zero runtime dependencies and works on Python 3.10+.
